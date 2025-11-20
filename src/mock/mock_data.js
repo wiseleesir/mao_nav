@@ -40,6 +40,13 @@ export const mockData = {
           "url": "https://curlconverter.com/",
           "description": "curl命令转换工具",
           "icon": "/sitelogo/curlconverter.com.ico"
+        },
+        {
+          "id": "site-1763615415593",
+          "name": "idea插件下载",
+          "url": "https://plugins.jetbrains.com/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
@@ -481,6 +488,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "wiselee导航",
-  "_fileSha": "5c3614d8aca8be7d2c7356c17e2efca728c97ba9"
+  "title": "wiselee导航"
 }
