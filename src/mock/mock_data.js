@@ -47,6 +47,13 @@ export const mockData = {
           "url": "https://plugins.jetbrains.com/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1763618483083",
+          "name": "屏幕常亮",
+          "url": "https://lumosprite.toolooz.com/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
