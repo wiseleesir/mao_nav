@@ -493,6 +493,28 @@ export const mockData = {
           "icon": "/sitelogo/www.feishu.cn.ico"
         }
       ]
+    },
+    {
+      "id": "category-1763732487738",
+      "icon": "📁",
+      "name": "博客",
+      "order": 2,
+      "sites": [
+        {
+          "id": "site-1763732545123",
+          "name": "数字套利",
+          "url": "https://blog.809098.xyz/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/blog.809098.xyz"
+        },
+        {
+          "id": "site-1763732840383",
+          "name": "零度解说",
+          "url": "https://www.freedidi.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.freedidi.com"
+        }
+      ]
     }
   ],
   "title": "wiselee导航"
