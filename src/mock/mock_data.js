@@ -54,6 +54,13 @@ export const mockData = {
           "url": "https://curlconverter.com/",
           "description": "curl命令转换工具",
           "icon": "/sitelogo/curlconverter.com.ico"
+        },
+        {
+          "id": "site-1765885644796",
+          "name": "域名批量查询注册",
+          "url": "https://www.west.cn/web/mi",
+          "description": "",
+          "icon": ""
         }
       ]
     },
