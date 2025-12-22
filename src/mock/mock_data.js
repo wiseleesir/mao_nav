@@ -61,6 +61,13 @@ export const mockData = {
           "url": "https://www.west.cn/web/mi",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1766419183767",
+          "name": "徽章制作器",
+          "url": "https://shields.io/",
+          "description": "https://shields.io/",
+          "icon": "https://www.faviconextractor.com/favicon/shields.io"
         }
       ]
     },
