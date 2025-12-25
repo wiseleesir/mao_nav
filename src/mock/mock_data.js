@@ -68,6 +68,13 @@ export const mockData = {
           "url": "https://shields.io/",
           "description": "https://shields.io/",
           "icon": "https://www.faviconextractor.com/favicon/shields.io"
+        },
+        {
+          "id": "site-1766642071252",
+          "name": "国外vps测评",
+          "url": "https://www.gwvpsceping.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/gwvpsceping.com"
         }
       ]
     },
