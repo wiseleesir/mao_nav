@@ -75,6 +75,13 @@ export const mockData = {
           "url": "https://www.gwvpsceping.com/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/gwvpsceping.com"
+        },
+        {
+          "id": "site-1766828874340",
+          "name": "移除付费墙",
+          "url": "https://paywallbuster.com/",
+          "description": "我们都讨厌付费墙。让我们来帮您打破这些壁垒。",
+          "icon": "https://www.faviconextractor.com/favicon/paywallbuster.com"
         }
       ]
     },
